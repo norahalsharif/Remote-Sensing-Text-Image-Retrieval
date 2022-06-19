@@ -56,14 +56,14 @@ To assess the validity of the retrieval model on the bilingual retrieval task, w
 
 In addition to the quantitative results, we performed another qualitative experiment to better understand the behavior of the attention mechanism employed by our transformer-based model. 
 
-<img width="876" alt="Screen Shot 2022-02-02 at 10 14 07 PM" src="https://user-images.githubusercontent.com/77771990/174461841-b6c222cc-78ce-47c2-962c-e505474e9890.png">
+<img width="572" alt="Screen Shot 2022-02-02 at 10 14 07 PM" src="https://user-images.githubusercontent.com/77771990/174461841-b6c222cc-78ce-47c2-962c-e505474e9890.png">
 
 
 **t-SNE of image and text features**
 
 To get an intuition of how the image and the text are aligned in the joint embedding space, the figure shows the features of both the image and text obtained from the two encoders projected into the two-dimensional space using t-SNE method. 
 
-<img width="876" alt="Screen Shot 2022-02-02 at 10 14 17 PM" src="https://user-images.githubusercontent.com/77771990/174461940-0e5a8bfd-4cb4-4cdd-bf5b-e858785cfe4d.png">
+<img width="572" alt="Screen Shot 2022-02-02 at 10 14 17 PM" src="https://user-images.githubusercontent.com/77771990/174461940-0e5a8bfd-4cb4-4cdd-bf5b-e858785cfe4d.png">
 
 
 
