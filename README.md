@@ -29,7 +29,7 @@ N. A. Alsharif, Y. Bazi, M. M. A. Rahhal, “Remote Sensing Image Retrieval usin
 ## First Contribution:  Cross-Modal Remote Sensing Image Retrieval using Language and Vision Transformers
 In order to assess the effectiveness of our retrieval method, we compare the proposed transformer-based model and the state-of-the-art retrieval methods published recently. The results are shown for three RS text-image datasets where the best results are represented in bold. 
 
-<img width="550" alt="Screen Shot 2022-02-02 at 9 52 38 PM" src="https://user-images.githubusercontent.com/77771990/174461434-b044784e-3e0d-4e94-8a40-2c4fbf1a0c33.png">
+<img width="530" alt="Screen Shot 2022-02-02 at 9 52 38 PM" src="https://user-images.githubusercontent.com/77771990/174461434-b044784e-3e0d-4e94-8a40-2c4fbf1a0c33.png">
 
 
 **Retrieval Examples with Attentions**
