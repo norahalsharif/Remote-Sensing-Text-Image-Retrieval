@@ -29,7 +29,7 @@ N. A. Alsharif, Y. Bazi, M. M. A. Rahhal, “Remote Sensing Image Retrieval usin
 ## First Contribution:  Cross-Modal Remote Sensing Image Retrieval using Language and Vision Transformers
 
 
-<img width="983" alt="Screen Shot 2022-02-02 at 9 52 38 PM" src="https://user-images.githubusercontent.com/77771990/174461434-b044784e-3e0d-4e94-8a40-2c4fbf1a0c33.png">
+<img width="550" alt="Screen Shot 2022-02-02 at 9 52 38 PM" src="https://user-images.githubusercontent.com/77771990/174461434-b044784e-3e0d-4e94-8a40-2c4fbf1a0c33.png">
 
 **Retrieval Examples with Attentions**
 
@@ -40,7 +40,7 @@ In this experiment, we merge all used datasets into one single dataset resulting
 **t-SNE of image and text features**
 
 To get a global view of the resulting alignment in the feature space, the figure shows the results obtained by the t-distributed stochastic neighbour embedding (t-SNE) method for the different test text-image pairs, blue for images and red for text. We can observe that our model can effectively separate both the image and text representations into discriminative clusters with good separation boundaries, which indicates that the model can be used also for image-to-image retrieval. In addition, the visualization shows how the model attempts to align clusters from different modalities although it is challenging as we observe shifts in the clusters. We recall that a good alignment indicates the ability of a model to reduce the heterogeneity gap between the image and text representations in the common space. 
-<img width="962" alt="Screen Shot 2022-02-02 at 9 56 38 PM" src="https://user-images.githubusercontent.com/77771990/174461577-27075915-3131-42c5-a30e-2af417c8c2ea.png">
+<img width="762" alt="Screen Shot 2022-02-02 at 9 56 38 PM" src="https://user-images.githubusercontent.com/77771990/174461577-27075915-3131-42c5-a30e-2af417c8c2ea.png">
 
 
 ## Second Contribution: Learning to Align Arabic and English Text to Remote Sensing Images Using Transformers
