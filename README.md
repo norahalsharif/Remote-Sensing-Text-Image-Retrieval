@@ -16,15 +16,11 @@ N. A. Alsharif, Y. Bazi, M. M. A. Rahhal, “Remote Sensing Image Retrieval usin
 
 ![image](https://user-images.githubusercontent.com/77771990/174462480-880ea8c8-b8f0-4695-a400-69353459b1ac.png)
 
-
-
 - In the second contribution, we proposed bilingual model to jointly learned both Arabic and English languages. In addition to learn Arabic language independently to compare single language and bilingual learning for Arabic and English languages. 
+
 ![image](https://user-images.githubusercontent.com/77771990/174462834-84abb3be-5fe0-43a5-bd5d-f686bd28411b.png)
 
-
-
 - We validated the proposed approaches using three different datasets, namely Merced, RSITMD, and RSICD.
-
 
 
 ## Results: 
@@ -33,14 +29,11 @@ In order to assess the effectiveness of our retrieval method, we compare the pro
 
 ![image](https://user-images.githubusercontent.com/77771990/174462884-0e9303d5-a579-4c63-9fb9-775dccd720cc.png)
 
-
 **Retrieval Examples with Attentions**
 
 In this experiment, we merge all used datasets into one single dataset resulting in 15778 images. Then, we use 80% for training. Then we present some text-to-image retrieval results using random text-image pairs from the remaining 20%. In particular, we show the top six ranked images given a particular query.
 
 ![image](https://user-images.githubusercontent.com/77771990/174462558-baa72c14-02c5-4582-8b4c-ae997ed35b57.png)
-
-
 
 **t-SNE of image and text features**
 
@@ -54,16 +47,12 @@ To assess the validity of the retrieval model on the bilingual retrieval task, w
 
 ![image](https://user-images.githubusercontent.com/77771990/174462685-b3d27347-86a8-4d8a-9cb3-1cf29fabdd28.png)
 
-
-
 **Visual Explain Ability**
 
 In addition to the quantitative results, we performed another qualitative experiment to better understand the behavior of the attention mechanism employed by our transformer-based model. 
 
 ![image](https://user-images.githubusercontent.com/77771990/174462713-08f40e59-79b9-4bcf-b4d6-d45e1cdd6484.png)
 ![image](https://user-images.githubusercontent.com/77771990/174462728-8f8b661f-c359-4fae-b87b-f1b0e17ad0f8.png)
-
-
 
 **t-SNE of image and text features**
 
