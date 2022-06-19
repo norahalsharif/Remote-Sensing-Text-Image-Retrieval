@@ -13,8 +13,8 @@ N. A. Alsharif, Y. Bazi, M. M. A. Rahhal, “Remote Sensing Image Retrieval usin
 ## Contributions: 
 - We have provided two Remote Sensing (RS) text-image retrieval approaches. In both contributions, this thesis has contributed towards investigating the transformer-based backbone models for RS images. We used vision and language transformer encoders for generating visual and textual representations, respectively. We have aligned these representations by optimizing a bidirectional contrastive loss related to text-to-image and image-to-text classification.
 - In the first contribution, we consider single language learning, we aligned image and English text to compare our approach to state-of-the-art methods. 
-<img width="762" alt="Screen Shot 2022-02-02 at 9 59 23 PM" src="https://user-images.githubusercontent.com/77771990/174460553-a1559245-a9e7-490d-87de-c04927b28aae.png">
-![plot](https://user-images.githubusercontent.com/77771990/174462249-ea494c52-c9b7-4f27-a088-6fb55f0bae7c.png)
+https://github.com/norahalsharif/Remote-Sensing-Text-Image-Retrieval/issues/1#issue-1275927936
+![image](https://user-images.githubusercontent.com/77771990/174462480-880ea8c8-b8f0-4695-a400-69353459b1ac.png)
 
 
 
