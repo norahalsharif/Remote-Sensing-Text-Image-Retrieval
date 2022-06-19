@@ -13,12 +13,12 @@ N. A. Alsharif, Y. Bazi, M. M. A. Rahhal, “Remote Sensing Image Retrieval usin
 ## Contributions: 
 - We have provided two Remote Sensing (RS) text-image retrieval approaches. In both contributions, this thesis has contributed towards investigating the transformer-based backbone models for RS images. We used vision and language transformer encoders for generating visual and textual representations, respectively. We have aligned these representations by optimizing a bidirectional contrastive loss related to text-to-image and image-to-text classification.
 - In the first contribution, we consider single language learning, we aligned image and English text to compare our approach to state-of-the-art methods. 
-<img width="1028" alt="Screen Shot 2022-02-02 at 9 59 23 PM" src="https://user-images.githubusercontent.com/77771990/174460553-a1559245-a9e7-490d-87de-c04927b28aae.png">
+<img width="962" alt="Screen Shot 2022-02-02 at 9 59 23 PM" src="https://user-images.githubusercontent.com/77771990/174460553-a1559245-a9e7-490d-87de-c04927b28aae.png">
 
 
 
 - In the second contribution, we proposed bilingual model to jointly learned both Arabic and English languages. In addition to learn Arabic language independently to compare single language and bilingual learning for Arabic and English languages. 
-<img width="1028" alt="Screen Shot 2022-02-02 at 9 59 23 PM" src="https://user-images.githubusercontent.com/77771990/174460621-8f5f6695-e6e0-437d-9b8c-fb1c857d3703.png">
+<img width="962" alt="Screen Shot 2022-02-02 at 9 59 23 PM" src="https://user-images.githubusercontent.com/77771990/174460621-8f5f6695-e6e0-437d-9b8c-fb1c857d3703.png">
 
 
 - We validated the proposed approaches using three different datasets, namely Merced, RSITMD, and RSICD.
@@ -27,13 +27,15 @@ N. A. Alsharif, Y. Bazi, M. M. A. Rahhal, “Remote Sensing Image Retrieval usin
 
 ## Results: 
 ## First Contribution:  Cross-Modal Remote Sensing Image Retrieval using Language and Vision Transformers
-
+In order to assess the effectiveness of our retrieval method, we compare the proposed transformer-based model and the state-of-the-art retrieval methods published recently. The results are shown for three RS text-image datasets where the best results are represented in bold. 
 
 <img width="550" alt="Screen Shot 2022-02-02 at 9 52 38 PM" src="https://user-images.githubusercontent.com/77771990/174461434-b044784e-3e0d-4e94-8a40-2c4fbf1a0c33.png">
+
 
 **Retrieval Examples with Attentions**
 
 In this experiment, we merge all used datasets into one single dataset resulting in 15778 images. Then, we use 80% for training. Then we present some text-to-image retrieval results using random text-image pairs from the remaining 20%. In particular, we show the top six ranked images given a particular query.
+
 <img width="550" alt="Screen Shot 2022-02-02 at 9 52 38 PM" src="https://user-images.githubusercontent.com/77771990/174461502-e420ebf9-f05a-4e9b-8f80-f4bfeeebe141.png">
 
 
