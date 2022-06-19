@@ -34,7 +34,7 @@ N. A. Alsharif, Y. Bazi, M. M. A. Rahhal, “Remote Sensing Image Retrieval usin
 **Retrieval Examples with Attentions**
 
 In this experiment, we merge all used datasets into one single dataset resulting in 15778 images. Then, we use 80% for training. Then we present some text-to-image retrieval results using random text-image pairs from the remaining 20%. In particular, we show the top six ranked images given a particular query.
-<img width="983" alt="Screen Shot 2022-02-02 at 9 52 38 PM" src="https://user-images.githubusercontent.com/77771990/174461502-e420ebf9-f05a-4e9b-8f80-f4bfeeebe141.png">
+<img width="550" alt="Screen Shot 2022-02-02 at 9 52 38 PM" src="https://user-images.githubusercontent.com/77771990/174461502-e420ebf9-f05a-4e9b-8f80-f4bfeeebe141.png">
 
 
 **t-SNE of image and text features**
@@ -61,7 +61,7 @@ In addition to the quantitative results, we performed another qualitative experi
 
 To get an intuition of how the image and the text are aligned in the joint embedding space, the figure shows the features of both the image and text obtained from the two encoders projected into the two-dimensional space using t-SNE method. 
 
-<img width="550" alt="Screen Shot 2022-02-02 at 10 14 17 PM" src="https://user-images.githubusercontent.com/77771990/174461940-0e5a8bfd-4cb4-4cdd-bf5b-e858785cfe4d.png">
+<img width="762" alt="Screen Shot 2022-02-02 at 10 14 17 PM" src="https://user-images.githubusercontent.com/77771990/174461940-0e5a8bfd-4cb4-4cdd-bf5b-e858785cfe4d.png">
 
 
 
