@@ -52,7 +52,7 @@ To get a global view of the resulting alignment in the feature space, the figure
 
 To assess the validity of the retrieval model on the bilingual retrieval task, we trained it independently on sentences from English and Arabic. In addition, we train it jointly on sentences from both languages
 
-![image](https://user-images.githubusercontent.com/77771990/174462834-84abb3be-5fe0-43a5-bd5d-f686bd28411b.png)
+![image](https://user-images.githubusercontent.com/77771990/174462685-b3d27347-86a8-4d8a-9cb3-1cf29fabdd28.png)
 
 
 
